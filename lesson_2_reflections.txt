@@ -21,3 +21,7 @@ organized? How would branches help?
 
 	Branches are helpful if you are testing out an experimental feature. With
 	a branch, the working version still exists while experimenting
+
+How do the diagrams help you visualize the branch structure?
+	
+	They help put all the branches and commits into perspective
