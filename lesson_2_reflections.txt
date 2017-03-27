@@ -31,3 +31,14 @@ the diagram the way we do?
 
 	They merge their changes in code based on their common ancestor. Because it
 	is important to understand what is being merged from what ancestor.
+
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+
+	automatic merging
+	pros: faster
+	cons: you won't always know what changes are being made
+
+	manual merging
+	pros: more user control
+	cons: slower
